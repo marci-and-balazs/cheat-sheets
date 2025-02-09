@@ -33,5 +33,6 @@ See [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/
 | --------- | --------- |
 | `<`       | `&lt;`    |
 | `>`       | `&gt;`    |
+| `&`       | `&amp;`   |
 
 See [HTML character reference](https://developer.mozilla.org/en-US/docs/Glossary/Character_reference) for more elements and details.
